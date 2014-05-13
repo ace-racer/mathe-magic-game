@@ -1,0 +1,30 @@
+td
+{
+ border: 1px solid black;
+}
+
+.hideMe
+{
+ display:none
+}
+
+.center,#header,#footer
+{
+ text-align:center
+}
+
+#next_btn,.right-aligned
+{
+ float:right;
+ margin:10px 0px 0px 10px 
+}
+
+.light-background
+{
+ background-color:orange
+}
+
+#footer
+{
+ margin:35px 0px 25px 0px
+}

@@ -1,0 +1,34 @@
+<!doctype html>
+<html lang="en">
+ <head>
+  <meta charset="utf-8">
+  <title> Math-a-Magic </title>
+  <meta name="description" content="A magical display of mathematics">
+  <meta name="author" content="Anurag Chatterjee">
+  <link rel="stylesheet" href="css/ResultStyles.css">
+  <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
+  <script src="js/ResultScript.js"></script>
+
+ </head>
+ 
+ <body>
+  <!--Header division -->
+  <div id="header">
+	<h2>A magical display of mathematics</h2>
+  </div>
+
+  
+  
+  <!--Results division -->
+  <div id="results">
+  
+  
+  </div> 
+
+  <!--Footer division -->
+  <div id="footer">
+  <h5>Made by Anurag Chatterjee</h5>
+  </div> 
+
+ </body>
+</html>
